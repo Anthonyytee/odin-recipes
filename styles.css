@@ -1,16 +1,20 @@
-a{
-    font-size: 3rem;
-    padding-left: 30%;
-    padding-right: 30%;
+.links{
+    font-size: 2rem;
+    margin-top: 20px;
+    
 }
 img{
     height: 30%;
     width: 30%;
     position: relative;
-    padding-left: 30%;
+    padding-left: 40%;
     padding-right: 30%;
 }
-h1{
-    padding-left: 30%;
+h1, h2,ul,heading,p, ol, #home{
+    padding-left: 40%;
     padding-right: 30%;
 }
+ul{
+    list-style: none;
+}
+
